@@ -3,8 +3,7 @@
 **Gridlinez 2.0** is an Adobe CEP extension for **Adobe Premiere Pro** (2020+, macOS & Windows) and **After Effects** that places pixel-accurate social media safe zones (**Instagram Reels**, **YouTube Shorts**, **TikTok**) and customizable **Custom Grids & Broadcast Overlays** directly onto your active sequence as a transparent overlay track with just one click. ✨
 
 <img width="375" height="634" alt="Bildschirmfoto 2026-11-12 um 22 56 00" src="https://github.com/user-attachments/assets/83718751-a565-4d05-8374-6f90a3923450" />
-<img width="612" height="672" alt="Bildschirmfoto 2026-11-12 um 22 55 37" src="https://github.com/user-attachments/assets/c1e71393-a7ab-402b-ad31-34cba155a80d" />
-<img width="615" height="697" alt="Bildschirmfoto 2026-11-12 um 22 55 28" src="https://github.com/user-attachments/assets/af2c6694-f87e-4368-92b8-a39f5de5833c" />
+<img width="612" height="634" alt="Bildschirmfoto 2026-11-12 um 22 55 37" src="https://github.com/user-attachments/assets/c1e71393-a7ab-402b-ad31-34cba155a80d" />
 
 
 ---
